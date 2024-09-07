@@ -1,0 +1,10 @@
+Task Scheduler Application:
+This is a Node.js-based Task Scheduler application using the Express.js framework. 
+
+Users can plan and manage their daily tasks with much ease in this application. Some of the key features of the project include:
+
+- Interactive User Interface: Users can easily add, view, and manage their tasks for each day.
+- Server-Side Logic: Implemented by using Node.js and Express.js for core backend operations and routing.
+- No Database Integration: This project, in its current form, does not integrate any database for data management; it either uses in-memory storage or local files.
+
+This project tries to minimize the hassle of task management by giving them a neat, efficient scheduling tool so they can keep track of tasks and stay updated regarding their responsibilities
